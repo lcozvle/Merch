@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MerchAI Studio",
+  "description": "A comprehensive design studio for generating product mockups from logos, editing images with natural language, and creating new visual assets using Google's Gemini 2.5 and Imagen 4 models.",
+  "requestFramePermissions": []
+}
